@@ -1,3 +1,5 @@
 class AppRoutes {
-  static const String homeRouteName = "HomeScreen";
+  static const String homeRoute = '/home';
+  static const String splashscreen = '/SplashScreen';
+  static const String webView = "/webview";
 }

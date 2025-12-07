@@ -4,7 +4,7 @@ import 'package:news_app/utils/app_colors.dart';
 
 class AppStyle {
   static TextStyle medium20white = GoogleFonts.inter(
-      fontSize: 20, fontWeight: FontWeight.w500, color: AppColors.whiteColor
+      fontSize: 20, fontWeight: FontWeight.w500, color: AppColors.primaryLightColor
   );
 
   static TextStyle medium20black = GoogleFonts.inter(
@@ -12,7 +12,7 @@ class AppStyle {
   );
 
   static TextStyle medium14white = GoogleFonts.inter(
-      fontSize: 14, fontWeight: FontWeight.w500, color: AppColors.whiteColor
+      fontSize: 14, fontWeight: FontWeight.w500, color: AppColors.primaryLightColor
   );
 
   static TextStyle medium14black = GoogleFonts.inter(
@@ -20,7 +20,7 @@ class AppStyle {
   );
 
   static TextStyle medium24white = GoogleFonts.inter(
-      fontSize: 24, fontWeight: FontWeight.w500, color: AppColors.whiteColor
+      fontSize: 24, fontWeight: FontWeight.w500, color: AppColors.primaryLightColor
   );
 
   static TextStyle medium24black = GoogleFonts.inter(
@@ -32,7 +32,7 @@ class AppStyle {
   );
 
   static TextStyle bold16white = GoogleFonts.inter(
-      fontSize: 16, fontWeight: FontWeight.bold, color: AppColors.whiteColor
+      fontSize: 16, fontWeight: FontWeight.bold, color: AppColors.primaryLightColor
   );
 
   static TextStyle bold16black = GoogleFonts.inter(
@@ -40,7 +40,7 @@ class AppStyle {
   );
 
   static TextStyle bold20white = GoogleFonts.inter(
-      fontSize: 20, fontWeight: FontWeight.bold, color: AppColors.whiteColor
+      fontSize: 20, fontWeight: FontWeight.bold, color: AppColors.primaryLightColor
   );
 
   static TextStyle bold20black = GoogleFonts.inter(
